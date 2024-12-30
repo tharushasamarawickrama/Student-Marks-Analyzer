@@ -2,7 +2,7 @@
 A Python tool to analyze student marks, identify subject toppers, and determine the overall top performer, with results saved to a text file.
 
 Data.txt file
-![Project Overview](https://github.com/username/repository/blob/main/image.png)
+![Data File](https://github.com/tharushasamarawickrama/Student-Marks-Analyzer/blob/main/data.png)
 
 Result.txt file
-![Project Overview](https://github.com/username/repository/blob/main/image.png)
+![Final Report](https://github.com/tharushasamarawickrama/Student-Marks-Analyzer/blob/main/result.png)
